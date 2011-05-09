@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap
+END
+LiteralException.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/LiteralException.class
+END
+ConnectionException.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/ConnectionException.class
+END
+ProtocolException.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/ProtocolException.class
+END
+ParsingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/ParsingException.class
+END
+Argument.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/Argument.class
+END
+ResponseInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/ResponseInputStream.class
+END
+ResponseHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/ResponseHandler.class
+END
+Literal.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/Literal.class
+END
+Response.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/Response.class
+END
+Atom.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/Atom.class
+END
+Protocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/Protocol.class
+END
+CommandFailedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/CommandFailedException.class
+END
+ByteArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/ByteArray.class
+END
+BadCommandException.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/BadCommandException.class
+END
+AString.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/iap/AString.class
+END

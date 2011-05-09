@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/handlers
+END
+text_xml.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/handlers/text_xml.class
+END
+image_gif.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/handlers/image_gif.class
+END
+image_jpeg.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/handlers/image_jpeg.class
+END
+multipart_mixed.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/handlers/multipart_mixed.class
+END
+text_plain.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/handlers/text_plain.class
+END
+text_html.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/handlers/text_html.class
+END
+message_rfc822.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/handlers/message_rfc822.class
+END

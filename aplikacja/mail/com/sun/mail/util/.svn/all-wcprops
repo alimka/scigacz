@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util
+END
+QEncoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/QEncoderStream.class
+END
+FolderClosedIOException.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/FolderClosedIOException.class
+END
+ASCIIUtility.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/ASCIIUtility.class
+END
+MessageRemovedIOException.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/MessageRemovedIOException.class
+END
+PropUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/PropUtil.class
+END
+SocketFetcher$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/SocketFetcher$1.class
+END
+QPDecoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/QPDecoderStream.class
+END
+LineInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/LineInputStream.class
+END
+CRLFOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/CRLFOutputStream.class
+END
+LineOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/LineOutputStream.class
+END
+BASE64DecoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/BASE64DecoderStream.class
+END
+SocketFetcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/SocketFetcher.class
+END
+MailSSLSocketFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/MailSSLSocketFactory$1.class
+END
+TraceInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/TraceInputStream.class
+END
+TraceOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/TraceOutputStream.class
+END
+DecodingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/DecodingException.class
+END
+UUDecoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/UUDecoderStream.class
+END
+QPEncoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/QPEncoderStream.class
+END
+BEncoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/BEncoderStream.class
+END
+BASE64EncoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/BASE64EncoderStream.class
+END
+QDecoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/QDecoderStream.class
+END
+MailSSLSocketFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/MailSSLSocketFactory.class
+END
+UUEncoderStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/UUEncoderStream.class
+END
+MailSSLSocketFactory$MailTrustManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/util/MailSSLSocketFactory$MailTrustManager.class
+END

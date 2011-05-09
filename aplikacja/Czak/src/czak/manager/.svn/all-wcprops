@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/scigacz/!svn/ver/382/aplikacja/Czak/src/czak/manager
+END
+HibernateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/scigacz/!svn/ver/382/aplikacja/Czak/src/czak/manager/HibernateUtil.java
+END
+ManagerSkrzynki.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/382/aplikacja/Czak/src/czak/manager/ManagerSkrzynki.java
+END
+ManagerNadManagery.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/scigacz/!svn/ver/382/aplikacja/Czak/src/czak/manager/ManagerNadManagery.java
+END
+ManagerWypozyczen.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/382/aplikacja/Czak/src/czak/manager/ManagerWypozyczen.java
+END

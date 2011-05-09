@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail
+END
+Service$TerminatorEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Service$TerminatorEvent.class
+END
+Session$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Session$4.class
+END
+Session$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Session$5.class
+END
+Session$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Session$6.class
+END
+Session$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Session$7.class
+END
+Multipart.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Multipart.class
+END
+Message.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Message.class
+END
+BodyPart.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/BodyPart.class
+END
+FolderClosedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/FolderClosedException.class
+END
+Address.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Address.class
+END
+Quota.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Quota.class
+END
+Provider.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Provider.class
+END
+Flags$Flag.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Flags$Flag.class
+END
+UIDFolder$FetchProfileItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/UIDFolder$FetchProfileItem.class
+END
+MultipartDataSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/MultipartDataSource.class
+END
+MessagingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/MessagingException.class
+END
+Message$RecipientType.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Message$RecipientType.class
+END
+Quota$Resource.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Quota$Resource.class
+END
+FetchProfile.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/FetchProfile.class
+END
+Folder.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Folder.class
+END
+SendFailedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/SendFailedException.class
+END
+UIDFolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/UIDFolder.class
+END
+StreamLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/StreamLoader.class
+END
+Session.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Session.class
+END
+MessageRemovedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/MessageRemovedException.class
+END
+Version.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Version.class
+END
+QuotaAwareStore.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/QuotaAwareStore.class
+END
+MethodNotSupportedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/MethodNotSupportedException.class
+END
+EventQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/EventQueue.class
+END
+Folder$TerminatorEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Folder$TerminatorEvent.class
+END
+ReadOnlyFolderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/ReadOnlyFolderException.class
+END
+Header.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Header.class
+END
+NoSuchProviderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/NoSuchProviderException.class
+END
+MessageContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/MessageContext.class
+END
+Flags.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Flags.class
+END
+Store.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Store.class
+END
+Transport.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Transport.class
+END
+FetchProfile$Item.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/FetchProfile$Item.class
+END
+Provider$Type.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Provider$Type.class
+END
+Service.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Service.class
+END
+PasswordAuthentication.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/PasswordAuthentication.class
+END
+AuthenticationFailedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/AuthenticationFailedException.class
+END
+IllegalWriteException.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/IllegalWriteException.class
+END
+URLName.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/URLName.class
+END
+MessageAware.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/MessageAware.class
+END
+StoreClosedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/StoreClosedException.class
+END
+Part.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Part.class
+END
+FolderNotFoundException.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/FolderNotFoundException.class
+END
+Session$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Session$1.class
+END
+EventQueue$QueueElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/EventQueue$QueueElement.class
+END
+Session$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Session$2.class
+END
+Authenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Authenticator.class
+END
+Session$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/Session$3.class
+END

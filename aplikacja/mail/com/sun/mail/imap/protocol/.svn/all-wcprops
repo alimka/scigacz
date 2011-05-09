@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol
+END
+ENVELOPE.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/ENVELOPE.class
+END
+BODYSTRUCTURE.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/BODYSTRUCTURE.class
+END
+Namespaces.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/Namespaces.class
+END
+UID.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/UID.class
+END
+Status.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/Status.class
+END
+BASE64MailboxDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/BASE64MailboxDecoder.class
+END
+ListInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/ListInfo.class
+END
+IMAPSaslAuthenticator$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/IMAPSaslAuthenticator$1.class
+END
+IMAPAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/IMAPAddress.class
+END
+FLAGS.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/FLAGS.class
+END
+BODY.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/BODY.class
+END
+SaslAuthenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/SaslAuthenticator.class
+END
+UIDSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/UIDSet.class
+END
+Item.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/Item.class
+END
+SearchSequence.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/SearchSequence.class
+END
+BASE64MailboxEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/BASE64MailboxEncoder.class
+END
+MessageSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/MessageSet.class
+END
+Namespaces$Namespace.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/Namespaces$Namespace.class
+END
+RFC822DATA.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/RFC822DATA.class
+END
+RFC822SIZE.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/RFC822SIZE.class
+END
+IMAPSaslAuthenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/IMAPSaslAuthenticator.class
+END
+IMAPResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/IMAPResponse.class
+END
+MailboxInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/MailboxInfo.class
+END
+IMAPProtocol.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/IMAPProtocol.class
+END
+FetchResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/FetchResponse.class
+END
+INTERNALDATE.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/imap/protocol/INTERNALDATE.class
+END

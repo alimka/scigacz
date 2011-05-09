@@ -1,0 +1,115 @@
+Witam :] 
+
+Najpierw napisz臋, 偶e uzupe艂ni艂am wi臋kszo艣膰 funkcji, p贸藕niej napisz臋 do nich komentarz.
+
+Zam贸wienia na funkcje prosz臋 sk艂ada膰 tutaj.
+
+Wkr贸tce zamieszcz臋 tu spis i opis funkcji, kt贸re ju偶 s膮.
+
+Prosz臋 Was o poprzedzenie swoich zam贸wie艅 plusikami "+++", 偶eby by艂o wiadomo, 偶e nie s膮 zrobione. 
+
+Radujmy si臋, siostry.
+
+
+
+Takie wyja艣nienie co do funkcji:
+Stara艂am si臋 konsekwentnie w ka偶dym menedzerze da膰 funkcje: Dodaj(Obiekt), Usun(idObiektu), Edytuj(Obiekt), Pokaz(idObiektu) oraz getMaxId().
+
+Sp贸jrzcie w kod jak na przyk艂ad wygl膮da ustawienie widoczo艣ci w ManagerZasobow.
+
+MANAGEROPINII:
+void DodajOpinie(Opinie o) - Dodanie opinii do bazy
+void EdytujOpinie(Opinie o) - Aktualizacja opinii, mo偶e si臋 kiedy艣 przyda. Mo偶e administrator b臋dzie chcia艂 na艂o偶yc cenzur臋.
+List<Opinie> ListujOpinieUzytkownika(idUzytkownika) - lista opinii dla danego u偶ytkownika
+Opinie PokazOpinie(idOpinie) - wyciaga dane konkretnej opinii
+void UsunOpinie(idOpinii) - podajesz id opinii i opinii nie ma
+int getMaxId() - podaje ostatnie wykorzystane id w bazie
+
+MANAGERREZERWACJI:
+void DodajRezerwacje(Rezerwacje r)
+void EdytujRezerwacje(Rezerwacje r)
+List<Rezerwacje> ListujKolejkeRezerwacji(idZasobu) - zwraca liste rezerwacji do danego zasobu
+int PodajNumerWKolejceRezerwacji(idRezerwacji)
+Rezerwacje PokazRezerwacje(idRezerwacji)
+void UsunRezerwacje(idRezerwacji)
+int getMaxId()
+
+MANAGERSKRZYNKI:
+void DodajWiadomosc(Wiadomosci w)
+void EdytujWiadomosc(Wiadomosci w) - nie ma jeszcze:P
+List<Wiadomosci> ListujKopieRoboczeUzytkownika(idUzytkownika) - oddaje listy niegotowych wiadomosci uzytkownika
+List<Wiadomosci> ListujWiadomosci() - zwraca wszystkie, nie wiem po co...
+List<Wiadomosci> ListujWiadomosciNadawcy(idUzytkownika) - skrzynka nadawcza
+List<Wiadomosci> ListujWiadomosciOdbiorcy(idUzytkownika) - skrzynka odbiorcza
+void OznaczJakoNieprzeczytana(idWiadomosci)
+void OznaczJakoPrzeczytana(idWiadomosci)
+Wiadomosci PokazWiadomosc(idWiadomosci)
+void UsunWiadomoscNadawca(idWiadomosci)
+void UsunWiadomoscOdbiorca(idWiadomosci) - nad tym trzeba pomy艣le膰, bo wpis w bazie jest jeden. A wiadomo艣膰 widzi i nadawca i odbiorca. 
+int getMaxId()
+Nie wiem co mam wsp贸lnego z funkcjami:
+PoprosOPrzedluzenieTerminuZwrotu
+PoprosOSzybkiZwrot
+PoprosOWypozyczenie
+OdpiszNaWiadomosc
+OdpowiedzNaPropozycjeZnajomosci
+ZaproponujZnajomosc
+
+MANAGERUZYTKOWNIKA:
+void DodajKonto(Uzytkownicy u)
+void EdytujUzytkownika(Uzytkownicy u)
+Uzytkownicy PokazUzytkownika(idUzytkownika)
+List<Uzytkownicy> PokazUzytkownikow() - pewnie dla admina ;p
+void UsunKonto(idUzytkownika)
+int getMaxId()
+
+MANAGERWYPOZYCZEN:
+void DodajWypozyczenie(Wypozyczenie w)
+void EdytujWypozyczenie(Wypozyczenie w)
+List<Wypozyczenia> ListujHistorieWypozyczen() - oddane wypozyczenia
+List<Wypozyczenia> ListujWypozyczenia() - wszystkie aktualne
+Wypozyczenia PokazWypozyczenie(idWypozyczenia)
+void UsunWypozyczenie(idWypozyczenia)
+int getMaxId()
+
+MANAGERZASOBOW:
+//////////////tu tez s膮 kwestie zdj臋膰
+void DodajZasob(Zasoby z)
+void EdytujZasob(Zasoby z)
+void DodajZdjecieZasobu(Zdjecia z)
+List<Zasoby> ListujZasobyUzytkownika(idUzytkownika)
+Zasoby PokazZasob(idZasobu)
+List<Zdjecia> PokazZdjeciaZasobu(idZasobu)
+Zdjecia PokazZdjecie(idZdjecia)
+void UstawWidocznosc(int widocznosc,idZasobu)
+void UsunZasob(idZasobu)
+void UsunZdjecieZasobu(idZdjecia)
+++List<Zasoby> WyszukajZasob() - tu jeszcze nie wiem...
+int getMaxId() - zasobu
+int getMaxIdZdjecia()
+
+MANAGERZNAJOMYCH:
+///////////
+void DodajZnajomego(Znajomi z)
+void EdytujZnajomego(Znajomi z) - nie ma
+List<Znajomi> ListujZnajomych() - wszyscy wszyscy
+List<Znajomi> ListujZnajomychUzytkownika(idUzytkownika)
+Znajomi PokazZnajomego(idZnajomosci)
+void UsunZnajomego(idZnajomosci)
+void ZmienRodzajZnajomosci(czybliski,idZnajomosci)
+int getMaxId()
+
+--------------------------od Pauliny -----------------
+ANIA - potrzebne beda mi do czaka takie rzeczy(nie wiem na ile sk砤dnie umiem to opisac,
+jakbys miala jakiekolwiek watpliwosci to pisz). Nazwy nada砤m wyja渘iaj筩e o co chodzi,
+
+Funkcja zwracaj筩a wyporzyczenia dla ktorych termin up硑wa za 7 dni (nie doprecyzowaly渕y
+co dla nas oznacza "zblizajacy sie termin", wiec tymczasowo przyjmuje, ze czak wysyla 1 maila
+na 7 dni przed uplywem terminu zwrotu, potem w dniu uplywu, a potem codziennie)
+
+List<Wypozyczenie> listujTydzienPrzed(biezaca data)
+List<Wypozyczenie> listujWDniu(biezaca data)
+List<Wypozyczenie> listujWszystkichPrzedawnionych(biezaca data)
+
+Do tego warto by w wysylanym mailu napisac komu zalegamy z oddaniem wiec funkcja 
+Uzytkownik podajWlasciciela (Zasob)

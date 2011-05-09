@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="scigacz"/>
+  <table-filter match-name="zasoby"/>
+  <table-filter match-name="znajomi"/>
+  <table-filter match-name="opinie"/>
+  <table-filter match-name="uzytkownicy"/>
+  <table-filter match-name="kategorie"/>
+  <table-filter match-name="wiadomosci"/>
+  <table-filter match-name="zdjecia"/>
+  <table-filter match-name="systemowe"/>
+  <table-filter match-name="rezerwacje"/>
+  <table-filter match-name="wypozyczenia"/>
+</hibernate-reverse-engineering>

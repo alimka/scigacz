@@ -1,0 +1,86 @@
+Komentarz do projektu "scigacz"
+Autor: Marcin Denkowski
+
+-------------------------------------------------------------------------
+03.11.2009
+
+Brak jednolitego dokumentu zawieraj±cego tytu³ projektu i autorów. Brak wstêpu opisuj±cego za³o¿enia i cele projektu.
+Brak spisu tre¶ci.
+
+S³ownik:
+Grupa znajomych - co to s± przywileje, jakie s± i kto o tym decyduje?
+System - brakuje mi tu jasnego okre¶lenia modelu systemu - domniemywam, ¿e bêdzie to architektura klient-serwer.
+
+Przypadki u¿ycia:
+Poza opisem w jêzyku naturalnym chcia³bym jednak równie¿ diagramy przypadków u¿ycia.
+W pozycjach:
+wypo¿yczZasób - alternatywny przep³yw - co znaczy aktywacja zasobu i co to jest d³u¿szy czas?
+wypo¿yczZasób a oznaczJakoWypo¿yczony - po co s± dwa przypadki, co to jest flaga zasobu?
+dodajOpiniê - brakuje mi dok³adnego okre¶lenia kiedy mo¿na "wystawiæ" opiniê
+nadajTerminZwrotu - czy czas jest w postaci wzglêdnej czy bezwzglêdnej? Czy dotyczy on ka¿dego zasobu czy tylko wypo¿yczonego?
+usuñZasób - co je¿eli dany zasób jest wypo¿yczony?
+wy¶lijPrzypomnienie - do zdefiniowania forma "przypomnienia"
+popro¶OSzybkiZwrot - czy ta funkcja zmienia stan systemu czy jest tylko wiadomo¶ci± od udostêpniacza do wypo¿yczaj±cego?
+zablokujZasób - co je¿eli jest wypo¿yczony?
+usuñZasóbZKategorii - nie wiem czy dobrze rozumiem ale chyba zasób musi nale¿eæ do jakiej¶ kategorii?
+
+umówSpotkanie - czy tu warunkiem wstêpnym nie powinno byæ wypo¿yczenie zasobu?
+wypo¿yczZasób - by³ ju¿ taki przypadek u¿ycia, jak siê ma to do umówSpotkanie?
+
+zarejestrujSiê - co¶ chyba nie tak?
+usuñKonto - co siê dzieje z zasobami, itd.?
+grupy znajomych - czy znajomy zawsze nale¿y do jakiej¶ grupy?
+
+Brakuje mi diagramów obrazuj±cych przep³yw danych w Systemie (np. czynno¶ci).
+
+Diagram klas:
+Nie wiem jaki jest podzia³ na model-widok, jak przebiega interakcja z interfejsem u¿ytkownika?
+Kto i kiedy tworzy obiekty tych klas? Zacinam siê ju¿ na klasie Uzytkownik.
+Brak podzia³u dla architektury klient-serwer o ile taka bêdzie.
+Proszê spróbowaæ na podstawie tych klas wymodelowaæ zdarzenie zalogowania i wypo¿yczenia jakiego¶ zasobu na diagramie sekwencji.
+Brak interfejsów do bazy danych.
+Diagram klas nie jest w ogólno¶ci odzwierciedleniem bazy danych - totalnie do poprawy i uszczegó³aniania.
+
+
+Projekt GUI:
+Nieczytelne, brak opisu kontrolek. Do uzupe³niania i dopracowania.
+
+Harmonogram:
+EWIDENTNY BRAK, brak wykazu co, kto, kiedy!!
+
+Baza danych:
+Wstêpnie wygl±da OK.
+
+Technologie:
+Je¿eli s± ju¿ wybrane to proszê podaæ.
+
+
+-------------------------------------------------------------------------
+09.11.2009
+
+Architektura aplikacji:
+Zastanawia mnie sytuacja, w ktorej aplikacja pelni jedynie role interfejsu do bazy danych. 
+W jaki sposob chca Panie zabezpieczyc taka baze przed, nawet srednio rozgarnietym, uzytkownikiem
+skoro z poziomu aplikacji mozna dokonac dowolnej zmiany w bazie danych? Wydaje mi sie, ze nie
+obejdzie sie bez jakiejs aplikacji centralnej pelniacej role posrednika pomiedzy aplikacja
+kliencka i baza danych -taki serwer dbajacy o integralnosc bazy danych i oferujacy jedynie
+konkretna i skonczona ilosc operacji. Do zdefiniowania zostanie jeszcze protokol komunikacji
+miedzy tym serwerem i klientami.
+
+Diagram klas:
+W odniesieniu do maila Pani Pauliny:
+1. Na diagramie nie ma specjalnie senu umieszczac konstruktory, chyba ¿e sa one z jakiejs przyczyny
+istotne. W ogolnosci na diagramach nalezy umieszczac minimalna ilosc informacji jaka jest niezbedna
+do wymodelowania danej perspektywy projektowej - i dotyczy to wszystkich typow diagramow.
+2. W zasadzie to nie ma jakiejs specyficznej metody obrazowania architektury klient-serwer. Na diagramie
+wdrozenia sa to po prostu dwa komponenty gdzie jeden udostepnia dugiemu szereg operacji. Na diagramie
+klas sa to z reguly dwa osobne byty/moduly realizujace swoje wlasne funkcje ale sprzegniete ze soba interfejsami.
+3. Zupelnie nie rozumniem o jakie galki chodzi. Mowiac o interakcji z interfacem mialem na mysli struktury
+danych i ich sposob reprezentacji dla uzytkownika w aplikacji klienckiej - czyli sposob oddzialywania
+ na siebie danych i kontrolek GUI.
+4. Interface bazy danych to w zasadzie klasa (lub interface), ktora udostepnia operacje zapisu i odczytu
+z/do bazy danych - to wszystko. Oczywiscie te operacje moga byc dosyc ogolne lub bardzo konkretne ale to
+juz zalezy od wizji projektu.
+
+Harmonogram:
+Zamiast: Stworzenie diagramu... lepiej by brzmia³o Modelowanie diagramu...

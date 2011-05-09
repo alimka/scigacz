@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp
+END
+SMTPAddressFailedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPAddressFailedException.class
+END
+SMTPAddressSucceededException.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPAddressSucceededException.class
+END
+SMTPTransport$Authenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPTransport$Authenticator.class
+END
+SMTPOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPOutputStream.class
+END
+SMTPTransport.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPTransport.class
+END
+SMTPSendFailedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPSendFailedException.class
+END
+SMTPSSLTransport.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPSSLTransport.class
+END
+SMTPTransport$PlainAuthenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPTransport$PlainAuthenticator.class
+END
+DigestMD5.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/DigestMD5.class
+END
+SMTPTransport$DigestMD5Authenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPTransport$DigestMD5Authenticator.class
+END
+SMTPMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPMessage.class
+END
+SMTPTransport$LoginAuthenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPTransport$LoginAuthenticator.class
+END
+SMTPTransport$NtlmAuthenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/com/sun/mail/smtp/SMTPTransport$NtlmAuthenticator.class
+END

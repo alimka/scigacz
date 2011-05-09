@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/util
+END
+ByteArrayDataSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/util/ByteArrayDataSource.class
+END
+SharedFileInputStream$SharedFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/util/SharedFileInputStream$SharedFile.class
+END
+SharedFileInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/util/SharedFileInputStream.class
+END
+SharedByteArrayInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/util/SharedByteArrayInputStream.class
+END
+ByteArrayDataSource$DSByteArrayOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/scigacz/!svn/ver/52/aplikacja/mail/javax/mail/util/ByteArrayDataSource$DSByteArrayOutputStream.class
+END
